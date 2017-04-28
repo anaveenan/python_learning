@@ -30,4 +30,6 @@ conda env remove -n env_name
 
 Setting up virtual environment for sublime text editor is done by following the instruction [here](https://inkdroid.org/2015/05/05/virtualenv-builds-in-sublime-text-3/)
 
+Tutorial on project management in python [link](http://www.florianwilhelm.info/2014/07/howto_setup_a_new_python_project/)
+
 /Users/narjunan/anaconda3/envs/py3
