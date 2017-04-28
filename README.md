@@ -26,3 +26,7 @@ conda env export > environment.yaml
 conda env create -f environment.yaml
 conda env list  #to list out all the environments you've created
 conda env remove -n env_name
+
+
+Setting up virtual environment for sublime text editor
+https://inkdroid.org/2015/05/05/virtualenv-builds-in-sublime-text-3/
