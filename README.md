@@ -1,7 +1,6 @@
-# python_learning
+# Python Learning#
 
-- python conda basics
-  
+-# python conda b
 Once you have Anaconda installed, managing packages is fairly straightforward. To install a package, type conda install package_name in your terminal. For example, to install numpy, type conda install numpy
 
 conda install numpy scipy pandas #will install all those packages simultaneously
