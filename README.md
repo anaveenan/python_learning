@@ -30,3 +30,5 @@ conda env remove -n env_name
 
 Setting up virtual environment for sublime text editor
 https://inkdroid.org/2015/05/05/virtualenv-builds-in-sublime-text-3/
+
+/Users/narjunan/anaconda3/envs/py3
